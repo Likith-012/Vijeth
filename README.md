@@ -1,6 +1,6 @@
 # Studio Management System
 
-A modern web application built with Next.js (frontend) and Flask (backend) for managing studio operations, projects, and team collaboration.
+A modern web application built with Next.js (frontend) and Supabase (backend) for managing studio operations, projects, and team collaboration.
 
 ![Project Screenshot](./public/screenshot.png) <!-- Add your screenshot -->
 
@@ -50,4 +50,4 @@ A modern web application built with Next.js (frontend) and Flask (backend) for m
 1. **Clone the repository**
 ```bash
 git clone https://github.com/Likith-012/Vijeth.git
-cd studio-management
+cd Vijeth
