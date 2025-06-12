@@ -25,7 +25,7 @@ const Index = () => {
     <div className="min-h-screen flex flex-col bg-gray-50">
       <header className="bg-white shadow-sm">
         <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
-          <h1 className="text-3xl font-bold text-gray-900">Project Management System</h1>
+          <h1 className="text-3xl font-bold text-gray-900">Project Management</h1>
         </div>
       </header>
       <main className="flex-1 flex items-center justify-center p-4">
@@ -36,7 +36,7 @@ const Index = () => {
       <footer className="bg-white border-t py-4">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <p className="text-center text-sm text-gray-500">
-            Project Management System © {new Date().getFullYear()}
+            Project Management © {new Date().getFullYear()}
           </p>
         </div>
       </footer>
